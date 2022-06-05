@@ -1,16 +1,43 @@
-# pr2_sky_scrapper_app
+<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-A new Flutter project.
 
-## Getting Started
+- 🔭 &ensp;I’m currently working as **Flutter Developer**
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
-This project is a starting point for a Flutter application.
+----------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="center">Covid_Cases</a></h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**To Know Covid Cases in each State of INDIA.**
+
+Screen 1         | 
+:-------------------------:|
+![s1](https://user-images.githubusercontent.com/77672442/172056740-3f63994b-d7bb-4a12-a9d6-63f5c2afdbfd.jpg)
+
+
+Screen 2          | 
+:-------------------------:|
+![s2](https://user-images.githubusercontent.com/77672442/172056736-2c14df1b-0227-4a2e-afd4-c374fb0916a1.jpg)
+
+
+Screen 3          | 
+:-------------------------:|
+![s3](https://user-images.githubusercontent.com/77672442/172056738-1fdb322f-3e7d-4766-9017-577880048024.jpg)
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
